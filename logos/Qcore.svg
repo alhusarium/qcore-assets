@@ -2,10 +2,13 @@
      width="512" height="512"
      viewBox="0 0 512 512"
      preserveAspectRatio="xMidYMid meet">
-
-  <image href="https://raw.githubusercontent.com/alhusarium/qcore-assets/main/logos/Qcore.png"
-         width="512"
-         height="512"
-         x="0"
-         y="0" />
+  <image
+    width="512"
+    height="512"
+    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAADgAAAA4ACAYAAAB6f3ETAAAgAElEQVR4nOzdP2xU5Z3/8d97
+    7rv3+71dW2ybNMmSbTNpkxbZ0QqpF4IUtAIbKCEqKISIqBAVlJZQ5w9xg+F8xAVFQUDkVRQ
+    WUUGVZZQWgshhC2q9n2vt7lz7/vu9znnDffuWfOnDn3nHvuuef8M3POueeee865Z86cOdM0
+    ... (trunchiat pentru claritate) ...
+    AoFAIBAIBAKBQCAQCAQCgUAgEAgEAoFAIBAIBAKBQCAQCAQCgUAgEAj8B/gd8Bf0u5C1wA
+    AAAASUVORK5CYII=" />
 </svg>
