@@ -1,6 +1,6 @@
 {
   "name": "Qcore Token List",
-  "logoURI": "https://raw.githubusercontent.com/alhusarium/qcore-assets/main/logos/Qcore.png",
+  "logoURI": "https://raw.githubusercontent.com/alhusarium/qcore-assets/main/logos/qcore.png",
   "timestamp": "2025-01-01T00:00:00Z",
   "version": {
     "major": 1,
@@ -15,7 +15,7 @@
       "symbol": "Qcore",
       "name": "Quantum CORE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/alhusarium/qcore-assets/main/logos/Qcore.png"
+      "logoURI": "https://raw.githubusercontent.com/alhusarium/qcore-assets/main/logos/qcore.png"
     }
   ]
 }
